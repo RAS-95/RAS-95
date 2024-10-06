@@ -1,5 +1,16 @@
+<h1 align="center">Hi there, it's me! Rafi Ahammed Songram</h1>
+<h3 align="center"> Researcher | Engineer | Problem solver</h3>
 
-## 🌐 Profiles:
+- I’m looking to collaborate on **Biomedical Imaging, Machine Learning , Deep Learning, computer vision, Natural Language Processing **
+
+- All of my projects are available at [Portfolio Webpage](https://ras-95.github.io/)
+
+- Email me **rafiahammedsongram@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+## 🌐 Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rafiahammed.songram/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafi-songram) [![Website](https://img.shields.io/badge/Website-%231E90FF.svg?logo=Google-Chrome&logoColor=white)](https://ras-95.github.io/)
 
 
@@ -15,5 +26,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RAS-95&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
