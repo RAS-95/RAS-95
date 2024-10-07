@@ -53,20 +53,13 @@ Here are some of my most significant and relevant repositories based on my resea
 |:----------------|:------------|:-----------------|
 | [**Medical-Imaging-Lung Disease**](https://github.com/RAS-95) | Deep Learning and Machine Learning techniques with custom efficient CNN applied to biomedical image, detection, and classification using various datasets. | Python, PyTorch, TensorFlow, Keras |
 | [**Brain-Tumor-Segmentation**](https://github.com/RAS-95/Brain-Tumor-Segmentation) | A comprehensive project focused on automated brain tumor prediction using Hybrid Approaches | Python, PyTorch, OpenCV, Tensorflow , Keras |
-| [**Ostio-Arthitris-Classification**](https://github.com/RAS-95) |This paper intro-
-duces a method for OA classification using a transfer learning
-fusion network with hyperparameter tuning and a Multi-Layer
-Ensemble approach | TensorFlow, Keras, CNN |
+| [**Ostio-Arthitris-Classification**](https://github.com/RAS-95) |This paper introduces a method for OA classification using a transfer learning fusion network with hyperparameter tuning and a Multi-Layer Ensemble approach | TensorFlow, Keras, CNN |
 
 ### 🛡️ **Network Security & NLP Projects**
 | Repository Name | Description | Technology Stack |
 |:----------------|:------------|:-----------------|
 | [**Cybersecurity-Intrusion-Detection**](https://github.com/RAS-95) | An intrusion detection system leveraging machine learning for detecting network anomalies and cyber-attacks. | Python, Scikit-learn,GRU, RF |
-| [**Character Recognition-RAS-BengaliNet**](https://github.com/RAS-95/NLP-Text-Classification) | This
-study introduces a novel lightweight convolutional neural network
-(CNN) architecture for recognizing Bengali handwritten compound
-characters. A dataset comprising over 8000 compound characters
-from 119 categories was meticulously curated and Grad Cam also Implemented | Python, Grad CAM, Tensorflow, Scikit-learn |
+| [**Character Recognition-RAS-BengaliNet**](https://github.com/RAS-95/NLP-Text-Classification) | This study introduces a novel lightweight convolutional neural network (CNN) architecture for recognizing Bengali handwritten compound characters. A dataset comprising over 8000 compound characters from 119 categories was meticulously curated and Grad Cam also Implemented | Python, Grad CAM, Tensorflow, Scikit-learn |
 
 <!--
 ![Profile views](https://gpvc.arturio.dev/RAS-95)
