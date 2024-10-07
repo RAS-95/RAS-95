@@ -60,7 +60,7 @@ Here are some of my most significant and relevant repositories based on my resea
 | Repository Name | Description | Technology Stack |
 |:----------------|:------------|:-----------------|
 | [**Cybersecurity-Intrusion-Detection**](https://github.com/RAS-95) | An intrusion detection system leveraging machine learning for detecting network anomalies and cyber-attacks. | Python, Scikit-learn,GRU, RF |
-| [**Character Recognition-RAS-BengaliNet**](https://github.com/RAS-95/NLP-Text-Classification) | This study introduces a novel lightweight convolutional neural network (CNN) architecture for recognizing Bengali handwritten compound characters. A dataset comprising over 8000 compound characters from 119 categories was meticulously curated and Grad Cam also Implemented | Python, Grad CAM, Tensorflow, Scikit-learn |
+| [**Optical Character Recognition-RAS-BengaliNet**](https://github.com/RAS-95/NLP-Text-Classification) | This study introduces a novel lightweight convolutional neural network (CNN) architecture for recognizing Bengali handwritten compound characters. A dataset comprising over 8000 compound characters from 119 categories was meticulously curated and Grad Cam also Implemented | Python, Grad CAM, Tensorflow, Scikit-learn |
 
 <!--
 ![Profile views](https://gpvc.arturio.dev/RAS-95)
