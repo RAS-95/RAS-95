@@ -11,6 +11,7 @@ This is **Rafi Ahammed Songram**, from **Rajshahi University of Engineering and 
 - 🌱 Currently revisiting the **[Segmentation](https://github.com/hphuongdhsp/Segmentation-Tutorial)**
 - 🤔 Looking for help with **Multi-modal Deep Learning**
 - 👯 Open for collaboration on suitable CS Research and/or Open Source Development projects
+- 📫 Reach out to me through: [Mail](mailto:rafiahammedsongram@gmail.com) and [LinkedIn](https://www.linkedin.com/in/rafi-songram/)
 
 <!--  
 - 💬 Ask me about ... 
