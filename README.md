@@ -41,6 +41,33 @@ This is **Rafi Ahammed Songram**, from **Rajshahi University of Engineering and 
 
 </div>
 
+## Connect with me
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rafi-songram/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rafiahammed.songram/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rafi_ahammed_songram/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/RAS-95)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://ras-95.github.io/)  
+
+## 🏆 **Top Repositories**
+
+Here are some of my most significant and relevant repositories based on my research interests:
+
+### 🔬 **Biomedical Imaging & Deep Learning Projects**
+| Repository Name | Description | Technology Stack |
+|:----------------|:------------|:-----------------|
+| [**Medical-Imaging-Lung Disease**](https://github.com/RAS-95) | Deep Learning and Machine Learning techniques with custom efficient CNN applied to biomedical image, detection, and classification using various datasets. | Python, PyTorch, TensorFlow, Keras |
+| [**Brain-Tumor-Segmentation**](https://github.com/RAS-95/Brain-Tumor-Segmentation) | A comprehensive project focused on automated brain tumor prediction using Hybrid Approaches | Python, PyTorch, OpenCV, Tensorflow , Keras |
+| [**Ostio-Arthitris-Classification**](https://github.com/RAS-95) |This paper intro-
+duces a method for OA classification using a transfer learning
+fusion network with hyperparameter tuning and a Multi-Layer
+Ensemble approach | TensorFlow, Keras, CNN |
+
+### 🛡️ **Network Security & NLP Projects**
+| Repository Name | Description | Technology Stack |
+|:----------------|:------------|:-----------------|
+| [**Cybersecurity-Intrusion-Detection**](https://github.com/RAS-95) | An intrusion detection system leveraging machine learning for detecting network anomalies and cyber-attacks. | Python, Scikit-learn,GRU, RF |
+| [**Character Recognition-RAS-BengaliNet**](https://github.com/RAS-95/NLP-Text-Classification) | This
+study introduces a novel lightweight convolutional neural network
+(CNN) architecture for recognizing Bengali handwritten compound
+characters. A dataset comprising over 8000 compound characters
+from 119 categories was meticulously curated and Grad Cam also Implemented | Python, Grad CAM, Tensorflow, Scikit-learn |
+
 <!--
 ![Profile views](https://gpvc.arturio.dev/RAS-95)
 
@@ -52,5 +79,4 @@ This is **Rafi Ahammed Songram**, from **Rajshahi University of Engineering and 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12278453/RAS-95)
 -->
 
-## Connect with me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rafi-songram/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rafiahammed.songram/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rafi_ahammed_songram/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/RAS-95)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://ras-95.github.io/)  
+
