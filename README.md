@@ -53,7 +53,7 @@ Here are some of my most significant and relevant repositories based on my resea
 | Repository Name | Description | Technology Stack |
 |:----------------|:------------|:-----------------|
 | [**Medical-Imaging-Lung Disease**](https://github.com/RAS-95) | Deep Learning and Machine Learning techniques with custom efficient CNN applied to biomedical image, detection, and classification using various datasets. | Python, PyTorch, TensorFlow, Keras |
-| [**Brain-Tumor-Segmentation**](https://github.com/RAS-95/Brain-Tumor-Segmentation) | A comprehensive project focused on automated brain tumor prediction using Hybrid Approaches | Python, PyTorch, OpenCV, Tensorflow , Keras |
+| [**Brain-Tumor-MRI**](https://github.com/RAS-95/Brain-Tumor-Segmentation) | A comprehensive project focused on automated brain tumor prediction using Hybrid Approaches | Python, PyTorch, OpenCV, Tensorflow , Keras |
 | [**Ostio-Arthitris-Classification**](https://github.com/RAS-95) |This paper introduces a method for OA classification using a transfer learning fusion network with hyperparameter tuning and a Multi-Layer Ensemble approach | TensorFlow, Keras, CNN |
 
 ### 🛡️ **Network Security & NLP Projects**
