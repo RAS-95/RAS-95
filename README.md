@@ -1,7 +1,7 @@
  <h1 align="center">Hi there, it's me! Rafi Ahammed Songram</h1>
  <h3 align="center"> Researcher | Engineer | Problem solver</h3>
 
-- I’m looking to collaborate on Biomedical Imaging, Machine Learning , Deep Learning, computer vision, Natural Language Processing
+- I’m looking to collaborate on **Biomedical Imaging, Machine Learning , Deep Learning, computer vision, Natural Language Processing**
 
 - All of my projects are available at [Portfolio Webpage](https://ras-95.github.io/)
 
