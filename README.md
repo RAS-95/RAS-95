@@ -7,11 +7,11 @@ Here are some ideas to get you started:
 -->
 This is **Rafi Ahammed Songram**, from **Rajshahi University of Engineering and Technology, Bangladesh**. I am a **Researcher** and **Developer** with a **Fresh BSc. Graduate** degree in **Computer Science and Engineering**. I am mostly interested in **BioMedical Imaging** research, specially applying **Machine Learning** and **Deep Learning** techniques to solve problems in various interdisciplinary domains as well as **Natural Language Processing**. Check out the repositories here in GitHub for my project details. Explore my [personal webpage](https://ras-95.github.io/) for updated CV/resume sections.
 
-- 🔭 Working on a couple of research projects covering **Deep Learning**, **Biomedical Imaging**, **Network Security** and **Natural Language Processing**
-- 🌱 Currently revisiting the **[Segmentation](https://github.com/hphuongdhsp/Segmentation-Tutorial)**
-- 🤔 Looking for help with **Multi-modal Deep Learning**
-- 👯 Open for collaboration on suitable CS Research and/or Open Source Development projects
-- 📫 Reach out to me through: [Email](mailto:rafiahammedsongram@gmail.com) and [LinkedIn](https://www.linkedin.com/in/rafi-songram/)
+- Working on a couple of research projects covering **Deep Learning**, **Biomedical Imaging**, **Network Security** and **Natural Language Processing** 🔭
+- Currently revisiting the **[Segmentation](https://github.com/hphuongdhsp/Segmentation-Tutorial)**
+- Looking for help with **Multi-modal Deep Learning**
+- Open for collaboration on suitable CS Research and/or Open Source Development projects.
+- Reach out to me through:📫[Email](mailto:rafiahammedsongram@gmail.com) and [LinkedIn](https://www.linkedin.com/in/rafi-songram/) 
 
 <!--  
 - 💬 Ask me about ... 
