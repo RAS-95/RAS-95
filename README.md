@@ -30,6 +30,10 @@ This is **Rafi Ahammed Songram**, from **Rajshahi University of Engineering and 
 <p align="left> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></p>
 -->
 
+## Connect with me
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rafi-songram/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rafiahammed.songram/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rafi_ahammed_songram/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/RAS-95)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://ras-95.github.io/)  
+
+
 ## Profile Overview
 
 <div align="center">
@@ -41,16 +45,23 @@ This is **Rafi Ahammed Songram**, from **Rajshahi University of Engineering and 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RAS-95&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RAS-95&theme=dracula&utcOffset=6)
 
 </div>
-<div align="center">
-## Connect with me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rafi-songram/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rafiahammed.songram/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rafi_ahammed_songram/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/RAS-95)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://ras-95.github.io/)  
-</div>
-<div align="center">
+
+
+
 ### 🔝 Repositories Overview!
+
+<div align="center">
+
 ![](https://github-contributor-stats.vercel.app/api?username=RAS-95&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
 </div>
+
 ---
+<div align="center">
+  
 [![](https://visitcount.itsvg.in/api?id=RAS-95&icon=0&color=0)](https://visitcount.itsvg.in)
+  
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
